@@ -1,2 +1,13 @@
-# web3-node-monitor
-Simple Web3 node monitoring tool to track node uptime, RPC connectivity, and log infrastructure status for blockchain nodes like Aztec, Gensyn, and Ethereum.
+# Web3 Node Monitor
+
+A simple monitoring tool for tracking Web3 infrastructure nodes.
+
+## Features
+- Monitor node uptime
+- Check RPC connection
+- Log node status
+
+## Supported Nodes
+- Aztec Node
+- Gensyn Node
+- Ethereum RPC
