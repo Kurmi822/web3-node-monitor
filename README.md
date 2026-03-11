@@ -11,3 +11,4 @@ A simple monitoring tool for tracking Web3 infrastructure nodes.
 - Aztec Node
 - Gensyn Node
 - Ethereum RPC
+  
